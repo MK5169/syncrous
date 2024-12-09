@@ -1,0 +1,36 @@
+﻿"Performance Counters","Instance Name",Count
+"Table_Scan_Operations",TRAXQAV15,"51,645"
+longrunningquery,TRAXQAV15,"17,470"
+"longrunningquery_buffergets",TRAXQAV15,"13,780"
+"Database_Size",TRAXQAV15,"4,312"
+"Datadictionary_cachehitratio",TRAXQAV15,"4,312"
+"Library_cachehitratio",TRAXQAV15,"4,312"
+"Loggedin_Users",TRAXQAV15,"4,312"
+"Logspace_request",TRAXQAV15,"4,312"
+"Open_Cursors",TRAXQAV15,"4,312"
+"Ratio_of_Sort_Operations",TRAXQAV15,"4,312"
+"Sort_Operations",TRAXQAV15,"4,312"
+"Tablespace_Status",TRAXQAV15,"4,312"
+"Tablespace_Usage",TRAXQAV15,"4,312"
+"active_connetion_ratio_counter",TRAXQAV15,"4,312"
+bufferHitRatio,TRAXQAV15,"4,312"
+"datafile_physicalreads",TRAXQAV15,"4,312"
+"db_alive_status_counter",TRAXQAV15,"4,312"
+"longrunningquery_topwaits",TRAXQAV15,"4,312"
+"temp_tablespace_details",TRAXQAV15,"4,312"
+"user_locks",TRAXQAV15,"2,895"
+"IO_activity",TRAXQAV15,86
+" Sessions_high_memory_usage",TRAXQAV15,43
+"Active_sessions",TRAXQAV15,43
+"Active_users_activity",TRAXQAV15,43
+"Blocking_sessions",TRAXQAV15,43
+"FRA_usage",TRAXQAV15,43
+"Instance_level",TRAXQAV15,43
+"Long_running_sessions",TRAXQAV15,43
+"Memory_usage",TRAXQAV15,43
+"Redo_log_switches_per_hour",TRAXQAV15,43
+"Sessions_high_CPU_usage",TRAXQAV15,43
+"Tablespace_usage",TRAXQAV15,43
+"Top_SQL_by_CPUtime",TRAXQAV15,43
+"Top_SQL_by_elapsedtime",TRAXQAV15,43
+"Top_wait_events",TRAXQAV15,43
